@@ -1,0 +1,2 @@
+# taxcup
+Taxcup.com is a technology company that builds simple, efficient and powerful tax filing platforms for international students, non-resident aliens (on F, J Visa) and businesses. As a customer of Taxcup, you do not have to worry about which form to file, or how to obtain other IRS form. Taxcup.com have made tax filing easier for customer. Simply sign up with Taxcup.com follow the step-by-step user navigation interface your tax return will be completed accurately, completely and you’re done.
